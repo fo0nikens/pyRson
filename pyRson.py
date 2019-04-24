@@ -1,9 +1,9 @@
-####################### 
-#  PERSON GENERATOR   #
-#    by @kernoeb	  #
-# github.com/kernoeb  #
-# twitter.com/kernoeb #
-# #####################
+##########################
+#    PERSON GENERATOR    #
+#      by @kernoeb	     #
+#   github.com/kernoeb   #
+# twitter.com/KOP_OF_TEA #
+##########################
 
 import urllib.request, urllib.parse, urllib.error
 import http.client
